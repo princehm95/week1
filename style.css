@@ -1,0 +1,70 @@
+
+body {
+    background-image: url("background-image.png");
+    font-size: 20px;
+   }
+   
+   img {
+    float:left;
+}
+div.relative {
+    position: relative;
+    left: 40px;
+    
+  }
+
+  p{
+    font-family: 'Roboto', sans-serif;
+  }
+
+  form {
+    text-align: center;
+  }
+
+  #ytext{
+      height: 300px;
+      width: 600px;
+  }
+
+  
+
+  div.middel-dots{
+    text-align: center;
+    font-size: 40px;
+    color:rgb(99, 93, 93);
+  }
+
+  
+#table1 {
+    text-align: center;
+
+}
+
+
+
+table, td {
+    
+    width: 1385px;
+    border: 1px solid rgb(99, 93, 93);
+    
+  }
+
+  .button {
+    background-color: orangered; /* orange */
+
+    border-radius: 5px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    
+    
+  }
+
+
+
+  
